@@ -61,3 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *   This extension requires a Google Gemini API key for AI features.
 *   It has been tested primarily on YouTube. Compatibility with Bilibili and X might vary.
 *   The knowledge graph visualization is a basic implementation.
+<img width="542" height="749" alt="image" src="https://github.com/user-attachments/assets/10e1eefc-5616-4e15-b110-fcaf6a97b6d8" />
+<img width="341" height="780" alt="image" src="https://github.com/user-attachments/assets/2f57e4fe-87ca-4381-a21a-f4e0e526e261" />
+
